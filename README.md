@@ -99,24 +99,140 @@ var hossein = new
 
 <!-- ============================================================= -->
 
-<!--                      CORE EXPERTISE                            -->
+<!--                    EXPERTISE CARDS                            -->
 
 <!-- ============================================================= -->
 
-## 🧩 Core Expertise
+## ⚡ Core Expertise
 
 <div align="center">
 
-| Area                     | Technologies & Skills                             |
-| ------------------------ | ------------------------------------------------- |
-| 💻 Backend Development   | C#, .NET, ASP.NET Core, EF Core                   |
-| 🗄️ Database Development | SQL Server, T-SQL, Stored Procedures              |
-| 🔄 ETL & Integration     | SSIS, ETL Processes, Data Integration             |
-| 🏗️ Data Warehouse       | Data Warehouse, Star Schema, Dimensional Modeling |
-| 📊 Business Intelligence | Power BI, Data Modeling, Dashboards               |
-| 🌐 APIs                  | ASP.NET Core Web API, RESTful APIs                |
-| 🧠 Software Engineering  | OOP, SOLID, Clean Code                            |
-| 📈 Data Analysis         | SQL, Power BI, KPI & Reporting                    |
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>💻 .NET Development</h3>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/C%23-Backend-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+<br/><br/>
+
+<sub>
+Building scalable backend applications,
+REST APIs and business systems.
+</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🗄️ SQL Server</h3>
+
+<img src="https://skillicons.dev/icons?i=mssql" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/T--SQL-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stored%20Procedures-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<br/><br/>
+
+<sub>
+Database development, complex queries,
+stored procedures and data transformation.
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🔄 SSIS & ETL</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SSIS-ETL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-Data%20Integration-0F6B78?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br/><br/>
+
+<sub>
+Designing ETL pipelines, data integration,
+staging processes and automated data flows.
+</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🏗️ Data Warehouse</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Data%20Warehouse-Architecture-2C5364?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star%20Schema-Modeling-2C5364?style=for-the-badge"/>
+
+<br/><br/>
+
+<sub>
+Dimensional modeling, fact & dimension tables,
+staging layers and analytical data models.
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>📊 Power BI</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br/><br/>
+
+<sub>
+Interactive dashboards, KPI reporting,
+DAX, data modeling and visualization.
+</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🌐 Web APIs</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST-API-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-API-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+<br/><br/>
+
+<sub>
+Designing RESTful APIs and connecting
+business applications with data services.
+</sub>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -124,45 +240,57 @@ var hossein = new
 
 <!-- ============================================================= -->
 
-<!--                       TECH STACK                               -->
+<!--                    TECHNOLOGY FLOW                            -->
 
 <!-- ============================================================= -->
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### 💻 Development
+## 🔥 My Technology Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" alt="C# .NET Visual Studio"/>
+<br/>
 
-<br/><br/>
-
-### 🗄️ Database & BI
-
-<img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,git,github,vscode" />
 
 <br/><br/>
 
-### 🔄 Data & Business Intelligence
-
-<img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSIS"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-
-<img src="https://img.shields.io/badge/Data%20Warehouse-2C5364?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehouse"/>
-
-<img src="https://img.shields.io/badge/ETL-0F6B78?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="ETL"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br/><br/>
 
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-0F6B78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Warehouse-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-2C5364?style=for-the-badge"/>
 
 </div>
 
 <br/>
+
+<!-- ============================================================= -->
+
+<!--                    DEVELOPMENT FLOW                           -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+## 🚀 From Data to Application
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=SQL%20SERVER%20%E2%86%92%20SSIS%20%E2%86%92%20DATA%20WAREHOUSE%20%E2%86%92%20POWER%20BI&fontSize=20&fontColor=2C9AB7&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=C%23%20%E2%86%92%20.NET%20%E2%86%92%20ASP.NET%20CORE%20%E2%86%92%20REST%20API&fontSize=20&fontColor=512BD4&animation=fadeIn" width="100%"/>
+
+</div>
+
 
 <!-- ============================================================= -->
 
