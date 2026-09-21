@@ -1,242 +1,416 @@
-```markdown
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
+
+<!--                         HEADER                                -->
+
+<!-- ============================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hossein%20Keshani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/HosseinKeshani">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Hossein+%F0%9F%91%8B;Front-End+%26+React+Developer+%F0%9F%9A%80;Freelancer+%26+Problem+Solver+%F0%9F%A7%A0;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=210&section=header&text=Hossein%20Keshani&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20%7C%20BI%20Developer%20%7C%20SQL%20Server&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
-<p>
-  <a href="https://github.com/HosseinKeshani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arashkeshanizade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arashia075@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2C9AB7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hossein+%F0%9F%91%8B;.NET+Developer+%F0%9F%92%BB;BI+Developer+%7C+SQL+Server+%F0%9F%93%8A;SSIS+%7C+Data+Warehouse+%7C+Power+BI+%F0%9F%9A%80;Building+Software+%26+Data+Solutions+%F0%9F%A7%A0" alt="Typing SVG"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HosseinKeshani&label=Profile%20Views&color=2575FC&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/HosseinKeshani?label=Followers&style=for-the-badge&color=6a11cb&labelColor=black" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/HosseinKeshani?label=Stars&style=for-the-badge&color=2575FC&labelColor=black" alt="Stars"/>
-</p>
+<br/><br/>
+
+<a href="https://github.com/HosseinKeshani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arashkeshanizade">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:arashia075@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=HosseinKeshani&label=Profile%20Views&color=2C9AB7&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/HosseinKeshani?label=Followers&style=for-the-badge&color=2C9AB7&labelColor=181717" alt="Followers"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
 
-<div align="center">
+<!--                         ABOUT ME                               -->
+
+<!-- ============================================================= -->
 
 ## 👨‍💻 About Me
 
-</div>
+I am a **.NET Developer and BI Developer** with a strong focus on **SQL Server, backend development, data integration, Data Warehousing, and Business Intelligence**.
 
-```ts
-const hossein = {
-  name       : "Hossein Keshani",
-  role       : "Software Engineering Student",
-  focus      : ["Web Development", "React Projects"],
-  freelance  : "Open for collaboration 💼",
-  interests  : ["Algorithms", "Clean Code", "UI/UX"],
-  contact    : {
-    email    : "arashia075@gmail.com",
-    linkedin : "linkedin.com/in/arashkeshanizade"
-  },
-  motto      : "Code. Learn. Build. Repeat."
+I work across both **software development** and **data solutions**, building backend applications as well as ETL pipelines, analytical databases, and Power BI dashboards.
+
+```csharp
+var hossein = new
+{
+    Name = "Hossein Keshani",
+
+    Roles = new[]
+    {
+        ".NET Developer",
+        "BI Developer"
+    },
+
+    Backend = new[]
+    {
+        "C#",
+        ".NET",
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "REST APIs"
+    },
+
+    Data = new[]
+    {
+        "SQL Server",
+        "T-SQL",
+        "SSIS",
+        "ETL",
+        "Data Warehouse",
+        "Data Modeling",
+        "Power BI"
+    },
+
+    Interests = new[]
+    {
+        "Backend Development",
+        "Business Intelligence",
+        "Data Engineering",
+        "Database Development",
+        "Software Architecture",
+        "Clean Code"
+    },
+
+    Education = "Bachelor's Degree",
+
+    Motto = "Code. Transform. Analyze. Build."
 };
 ```
 
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                      CORE EXPERTISE                            -->
+
+<!-- ============================================================= -->
+
+## 🧩 Core Expertise
+
 <div align="center">
 
-- 🔭 Currently working on **Web Development**
-- ⚛️ Building projects with **React**
-- 🤝 Open to collaborate on **Freelance projects**
-- 📘 Student of **Software Engineering**
-- 💬 Ask me about **Development** and **Algorithms**
+| Area                     | Technologies & Skills                             |
+| ------------------------ | ------------------------------------------------- |
+| 💻 Backend Development   | C#, .NET, ASP.NET Core, EF Core                   |
+| 🗄️ Database Development | SQL Server, T-SQL, Stored Procedures              |
+| 🔄 ETL & Integration     | SSIS, ETL Processes, Data Integration             |
+| 🏗️ Data Warehouse       | Data Warehouse, Star Schema, Dimensional Modeling |
+| 📊 Business Intelligence | Power BI, Data Modeling, Dashboards               |
+| 🌐 APIs                  | ASP.NET Core Web API, RESTful APIs                |
+| 🧠 Software Engineering  | OOP, SOLID, Clean Code                            |
+| 📈 Data Analysis         | SQL, Power BI, KPI & Reporting                    |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
+
+<!--                       TECH STACK                               -->
+
+<!-- ============================================================= -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,nodejs,git,github,vscode,figma&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" alt="C# .NET Visual Studio"/>
+
+<br/><br/>
+
+### 🗄️ Database & BI
+
+<img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server"/>
+
+<br/><br/>
+
+### 🔄 Data & Business Intelligence
+
+<img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSIS"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+<img src="https://img.shields.io/badge/Data%20Warehouse-2C5364?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehouse"/>
+
+<img src="https://img.shields.io/badge/ETL-0F6B78?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="ETL"/>
+
+<br/><br/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
+
+<!--                    WHAT I WORK WITH                            -->
+
+<!-- ============================================================= -->
+
+## 🚀 What I Work With
+
+### 💻 .NET & Backend
+
+* C#
+* .NET
+* ASP.NET Core
+* Entity Framework Core
+* RESTful Web APIs
+* Business Applications
+* Layered Architecture
+* Service-based Applications
+
+### 🗄️ SQL Server
+
+* Advanced T-SQL
+* Complex Queries
+* Stored Procedures
+* Views
+* Database Design
+* Performance-oriented Queries
+* Data Transformation
+
+### 🔄 ETL & SSIS
+
+* SQL Server Integration Services
+* ETL Package Development
+* Source-to-Target Data Integration
+* Staging Tables
+* Data Validation
+* Error Handling
+* Automated Data Processing
+
+### 🏗️ Data Warehouse
+
+* Data Warehouse Development
+* Star Schema
+* Fact & Dimension Tables
+* Dimensional Modeling
+* Staging Architecture
+* ETL Pipelines
+* Historical Data Management
+
+### 📊 Power BI
+
+* Interactive Dashboards
+* KPI Reporting
+* Data Modeling
+* Power Query
+* DAX
+* Business Reports
+* Data Visualization
+
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                    MY DEVELOPMENT PATH                         -->
+
+<!-- ============================================================= -->
+
+## 🔗 Software & Data
+
+<div align="center">
+
+```text
+                         BUSINESS REQUIREMENTS
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │      SQL Server          │
+                    │  Database Development    │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │          SSIS            │
+                    │      ETL / Integration   │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │      Data Warehouse      │
+                    │ Fact + Dimension Models  │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │        Power BI          │
+                    │ Dashboards & Analytics   │
+                    └─────────────────────────┘
+
+
+        ┌────────────────────────────────────────────┐
+        │              APPLICATION SIDE              │
+        │                                            │
+        │   C# → .NET → ASP.NET Core → REST API     │
+        │                                            │
+        └────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                         CURRENT FOCUS                          -->
+
+<!-- ============================================================= -->
+
+## 🎯 Areas of Focus
+
+<div align="center">
+
+**Backend Development**
+C# • .NET • ASP.NET Core • Web API • EF Core
+
+**Database Development**
+SQL Server • T-SQL • Stored Procedures • Database Design
+
+**Business Intelligence**
+SSIS • ETL • Data Warehouse • Power BI • DAX
+
+**Data Engineering**
+Data Integration • Data Modeling • Data Pipelines • Reporting
+
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+
 <!--                       GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- ============================================================= -->
 
 ## 📊 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HosseinKeshani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2575FC&icon_color=6a11cb&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinKeshani&theme=tokyonight&hide_border=true&background=0D1117&stroke=2575FC&ring=6a11cb&fire=2575FC&currStreakLabel=2575FC" alt="GitHub Streak"/>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HosseinKeshani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2C9AB7&icon_color=2C9AB7&text_color=c9d1d9" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinKeshani&theme=tokyonight&hide_border=true&background=0D1117&stroke=2C9AB7&ring=2C9AB7&fire=2C9AB7&currStreakLabel=2C9AB7" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinKeshani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2575FC&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinKeshani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C9AB7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
 
-<div align="center">
+<!--                    CONTRIBUTION GRAPH                         -->
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=HosseinKeshani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<!-- ============================================================= -->
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HosseinKeshani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2575FC&line=6a11cb&point=ffffff&area=true" width="100%" alt="Activity Graph"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HosseinKeshani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2C9AB7&line=2C9AB7&point=ffffff&area=true" width="100%" alt="Contribution Activity"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SNAKE ANIMATION                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
+
+<!--                         TROPHIES                               -->
+
+<!-- ============================================================= -->
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-## 🐍 Watch My Contributions Get Eaten
-
-<img src="https://raw.githubusercontent.com/HosseinKeshani/HosseinKeshani/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HosseinKeshani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          QUOTE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
+
+<!--                       SNAKE                                    -->
+
+<!-- ============================================================= -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+<img src="https://raw.githubusercontent.com/HosseinKeshani/HosseinKeshani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
+
 <!--                         CONNECT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ============================================================= -->
+
+## 📫 Connect With Me
 
 <div align="center">
-
-## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/arashkeshanizade">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:arashia075@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://github.com/HosseinKeshani">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+</div>
 
 <br/><br/>
 
-**⭐️ From [HosseinKeshani](https://github.com/HosseinKeshani) — Thanks for visiting!**
+<div align="center">
+
+### 💡 Code. Transform. Analyze. Build.
+
+⭐ Thanks for visiting my profile!
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================= -->
 
-<div align="center">
+<!--                         FOOTER                                 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+<!-- ============================================================= -->
 
-</div>
-```
-
----
-
-## 🐍 Snake Animation Workflow
-
-**File path:** `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: HosseinKeshani
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
