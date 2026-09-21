@@ -40,7 +40,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="left">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=60&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
@@ -56,7 +56,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ```csharp
 var hossein = new
